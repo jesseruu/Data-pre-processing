@@ -76,7 +76,7 @@ def main():
         print("\n\t\t PRE-PROCESAMIENTO DE DATOS CON PYTHON")
         print("\n\t\t 1. Limpiar datos")
         print("\t\t 2. Categorizar datos")
-        print("\t\t 3. Importar dataset a un nuevo csv")
+        print("\t\t 3. Exportar dataset a un nuevo csv")
         print("\t\t 4. Salir")
         option = input("\n\t\t Digite el numero de la opcion: ")
         print("\t\t==========================================")
